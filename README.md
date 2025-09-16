@@ -18,11 +18,7 @@
 - **videoAI** — pipelines for text/image → short video using Stable Video Diffusion.
 - **ShopManager** — phone shop management app (MySQL & SQL Server).
 
-(See pinned repositories below)
-
-## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntv2710&show_icons=true&count_private=true)
 
 ## 📫 Contact
 - Email: nvy381932@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+- LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/v%E1%BB%B9-nguy%E1%BB%85n-ba4157299/)
