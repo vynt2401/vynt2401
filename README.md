@@ -87,20 +87,14 @@
 
 ---
 
-## 📜 Certifications  
+## 📫 Connect With Me  
 
-- STM32 Microcontroller Programming — HCMUS (2024)  
-- Python Bootcamp — Udemy (2024)  
-- Basic IT Certificate — VNU-HCM (2023)  
-
----
-
-## 🌱 Career Goals  
-
-- **Short-term (1–2 years):**  
-  Master embedded system tools (STM32, ESP32, Raspberry Pi), strengthen C/C++/Python, and contribute to real-world IoT projects.  
-
-- **Long-term (3–5 years):**  
-  Specialize in ML on embedded devices, wireless communication (LoRa, Zigbee, BLE), and grow into a Senior Embedded Engineer or Technical Architect.  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vynt2401)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvy381932@gmail.com)
 
 ---
+
+✨ *“All that once seemed hard to endure is sweet to remember.” – Seneca* ✨
+
