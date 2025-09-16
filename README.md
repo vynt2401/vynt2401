@@ -79,11 +79,10 @@
 ## 💡 Interests  
 
 - 🤖 Robotics & Embedded Systems  
-- 🏭 Industrial Automation & PLC  
 - 🌐 IoT & Smart Factory  
 - 🔗 System Integration  
 - 🧠 AI in Automation  
-- 💻 Full-stack Web Application  
+- 🐍 Python Tools Development
 
 ---
 
