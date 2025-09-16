@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Nguyen The Vy  
 
-<img src="./5d643a93-1d25-43f4-9f6c-5d33ff1a5a1c.png" alt="![Uploading image.png…]()
-" width="100%">
-
 🎓 **IoT & Embedded Systems Intern** | Student at University of Science, VNU-HCM  
 📍 Thu Duc, Ho Chi Minh City, Vietnam  
 📫 **Email:** nvy381932@gmail.com | **GitHub:** [vynt2401](https://github.com/vynt2401)
