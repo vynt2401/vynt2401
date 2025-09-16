@@ -70,6 +70,7 @@
 ![Quartus](https://img.shields.io/badge/Quartus%20Prime-34495E?style=for-the-badge)&nbsp;
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge)&nbsp;
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
+![Matlab](https://img.shields.io/badge/Matlab-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
