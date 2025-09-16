@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nguyen The Vy  
 
 
-🎓 **IoT & Embedded Systems Intern** | Student at University of Science, VNU-HCM  
+🎓 **IoT & Embedded Systems** | Student at University of Science, VNU-HCM  
 📍 Thu Duc, Ho Chi Minh City, Vietnam  
 📫 **Email:** nvy381932@gmail.com | **GitHub:** [vynt2401](https://github.com/vynt2401)
 
@@ -38,6 +38,7 @@
 ![ESP32](https://img.shields.io/badge/ESP32-3C3C3D?style=for-the-badge)&nbsp;
 ![ESP8266](https://img.shields.io/badge/ESP8266-4B8BBE?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 **Communication Protocols**  
 ![UART](https://img.shields.io/badge/UART-34495E?style=for-the-badge)&nbsp;
