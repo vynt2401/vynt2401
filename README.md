@@ -7,13 +7,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vynt2401&show_icons=true&count_private=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vynt2401&layout=compact&theme=tokyonight)
-
----
-
 ## 🛠️ Professional Skills  
 
 **Languages**  
