@@ -1,13 +1,10 @@
-# 👋 Hi, I'm Nguyen The Vy  
-
-
+# 👋 Hi, I'm Nguyen The Vy
 🎓 **IoT & Embedded Systems** | Student at University of Science, VNU-HCM  
 📍 Thu Duc, Ho Chi Minh City, Vietnam  
 📫 **Email:** nvy381932@gmail.com | **GitHub:** [vynt2401](https://github.com/vynt2401)
 
 ---
-
-## 🛠️ Professional Skills  
+## 🛠️ Professional Skills
 
 **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
@@ -20,42 +17,14 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Systems**  
-![Embedded](https://img.shields.io/badge/Embedded-2C3E50?style=for-the-badge)&nbsp;
-![IoT](https://img.shields.io/badge/IoT-1ABC9C?style=for-the-badge)&nbsp;
-![Automation](https://img.shields.io/badge/Automation-16A085?style=for-the-badge)&nbsp;
-![System Integration](https://img.shields.io/badge/System%20Integration-2C3E50?style=for-the-badge)
-
-**Microcontrollers**  
+**Microcontrollers & Single-Board Computers**  
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)&nbsp;
 ![ESP32](https://img.shields.io/badge/ESP32-3C3C3D?style=for-the-badge)&nbsp;
 ![ESP8266](https://img.shields.io/badge/ESP8266-4B8BBE?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-
-**Communication Protocols**  
-![UART](https://img.shields.io/badge/UART-34495E?style=for-the-badge)&nbsp;
-![I2C](https://img.shields.io/badge/I2C-27AE60?style=for-the-badge)&nbsp;
-![SPI](https://img.shields.io/badge/SPI-8E44AD?style=for-the-badge)&nbsp;
-![ADC](https://img.shields.io/badge/ADC-2980B9?style=for-the-badge)&nbsp;
-![DAC](https://img.shields.io/badge/DAC-1ABC9C?style=for-the-badge)&nbsp;
-![RS485](https://img.shields.io/badge/RS485-2C3E50?style=for-the-badge)&nbsp;
-![CAN](https://img.shields.io/badge/CAN-16A085?style=for-the-badge)&nbsp;
-![DMA](https://img.shields.io/badge/DMA-7F8C8D?style=for-the-badge)&nbsp;
-![SDIO](https://img.shields.io/badge/SDIO-34495E?style=for-the-badge)&nbsp;
-![MQTT](https://img.shields.io/badge/MQTT-0063BF?style=for-the-badge&logo=mqtt&logoColor=white)&nbsp;
-![HTTP](https://img.shields.io/badge/HTTP-FF5733?style=for-the-badge)&nbsp;
-![WebSocket](https://img.shields.io/badge/WebSocket-0A66C2?style=for-the-badge)
-
-**Real-time Concepts**  
-![Interrupts](https://img.shields.io/badge/Interrupts-9B59B6?style=for-the-badge)&nbsp;
-![Timers](https://img.shields.io/badge/Timers-2980B9?style=for-the-badge)&nbsp;
-![PWM](https://img.shields.io/badge/PWM-1ABC9C?style=for-the-badge)&nbsp;
-![I/O](https://img.shields.io/badge/I/O-2ECC71?style=for-the-badge)
-
-**RTOS**  
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6C3483?style=for-the-badge)&nbsp;
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
+![Orange Pi](https://img.shields.io/badge/Orange%20Pi-FF6600?style=for-the-badge)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22830?style=for-the-badge&logo=raspberry-pi&logoColor=white)&nbsp;
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **Tools**  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
@@ -68,23 +37,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 💡 Interests  
-
+## 💡 Interests
 - 🤖 Robotics & Embedded Systems  
 - 🌐 IoT & Smart Factory  
 - 🔗 System Integration  
 - 🧠 AI in Automation  
-- 🐍 Python Tools Development
+- 🐍 Python Tools Development  
 
 ---
-
-## 📫 Connect With Me  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vynt2401)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thevy.nguyen.372?locale=vi_VN)
+## 📫 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vynt2401)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thevy.nguyen.372?locale=vi_VN)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvy381932@gmail.com)
 
 ---
-
 ✨ *“All that once seemed hard to endure is sweet to remember.” – Seneca* ✨
