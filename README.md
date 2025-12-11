@@ -50,16 +50,7 @@ Passionate about building **real-world systems that run 24/7 in fish ponds, fact
 ![eBPF](https://img.shields.io/badge/eBPF-EE0000?style=for-the-badge)&nbsp;
 ![Edge AI](https://img.shields.io/badge/Edge%20AI-00D4AA?style=for-the-badge)
 
----
-## Featured Projects
-| Project | Description | Tech Stack |
-|-------|------------|-----------|
-| **ESP32 Aquaculture Dashboard** | Real-time monitoring & smart aeration + auto feeder (8+ months in production) | ESP32 • Flask • MQTT • SQLite • HTTPS |
-| **Rust no-std Driver** | MAX31865 temperature sensor driver in pure Rust | Rust • embedded-hal |
-| **FPGA Digital Clock** | 7-segment display controller with alarm | VHDL • DE10-Lite • Quartus |
-| **Orange Pi Edge Cluster** | 4-node homelab for aquaculture data processing | Docker • k3s • Tailscale |
 
----
 ## What Drives Me
 - Building **systems that farmers actually use every day**
 - Writing **memory-safe embedded code** with Rust
